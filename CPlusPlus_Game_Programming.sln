@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPlusPlus_Game_Programming", "CPlusPlus_Game_Programming\CPlusPlus_Game_Programming.vcxproj", "{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Debug|x64.ActiveCfg = Debug|x64
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Debug|x64.Build.0 = Debug|x64
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Debug|x86.Build.0 = Debug|Win32
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Release|x64.ActiveCfg = Release|x64
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Release|x64.Build.0 = Release|x64
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Release|x86.ActiveCfg = Release|Win32
+		{10478CCF-416D-4BF8-92EC-B227A2D0A2C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F78D4081-D18F-44E7-BE85-EF7923DA0104}
+	EndGlobalSection
+EndGlobal
